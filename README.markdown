@@ -82,6 +82,8 @@ Windows: [Ctrl + Alt + Shift + H]
 
 Linux: [Ctrl + Alt + Shift + H]
 
+OSX: [Cmd + Opt + Shift + H]
+
 ## Installing
 
 TODO
